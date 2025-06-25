@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o William Cruvinel!</h1>
+<h1 align="center">Olá, eu sou o William Cruvinel! 👋</h1>
 
 <p align="center">
   Desenvolvedor Full Stack | Apaixonado por tecnologia e boas práticas de código
@@ -17,7 +17,7 @@ Sou um desenvolvedor focado em construir aplicações web modernas, performátic
 
 ---
 
-### 💼 Tecnologias e Ferramentas que uso
+### 💼 Tecnologias e Ferramentas:
 
 #### 🧩 Front-end
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
@@ -32,7 +32,7 @@ Sou um desenvolvedor focado em construir aplicações web modernas, performátic
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 
-#### 📦 Outras tecnologias
+#### 📦 Outras
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
