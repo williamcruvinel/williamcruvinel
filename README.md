@@ -1,14 +1,16 @@
 <h1 align="center">Olá, eu sou o William Cruvinel! 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack | Apaixonado por tecnologia e boas práticas de código
+  Desenvolvedor Fullstack | Construindo aplicações web com JavaScript, TypeScript, React & Node.js  e boas práticas de código
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-Sou um desenvolvedor focado em construir aplicações web modernas, performáticas e bem estruturadas. Amo aprender coisas novas, compartilhar conhecimento e resolver problemas com código limpo e escalável. Meu foco principal é no ecossistema JavaScript/TypeScript, mas estou sempre explorando novas ferramentas e conceitos do universo da programação. 🚀
+Sou um desenvolvedor focado em construir aplicações web modernas, performáticas e bem estruturadas. Amo aprender coisas novas, compartilhar conhecimento e resolver problemas com código limpo e escalável. Meu foco principal é no ecossistema JavaScript/TypeScript, mas estou sempre explorando novas ferramentas e conceitos do universo da programação. 
+
+Amo aprender coisas novas, compartilhar conhecimento e resolver problemas complexos com código limpo e escalável. 🚀
 
 ---
 
