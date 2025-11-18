@@ -1,14 +1,14 @@
 <h1 align="center">Olá, eu sou o William Cruvinel! 👋</h1>
 
 <p align="center">
-  Desenvolvedor Fullstack | Construindo aplicações web com JavaScript, TypeScript, React & Node.js  e boas práticas de código
+  Desenvolvedor Front-end | Construindo aplicações web com JavaScript, TypeScript, React & tailwind
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-Sou um desenvolvedor focado em construir aplicações web modernas, performáticas e bem estruturadas. Amo aprender coisas novas, compartilhar conhecimento e resolver problemas com código limpo e escalável. Meu foco principal é no ecossistema JavaScript/TypeScript, mas estou sempre explorando novas ferramentas e conceitos do universo da programação. 
+Desenvolvedor Front-End focado em React, TypeScript e Tailwind. Construo interfaces escaláveis, performáticas e bem estruturadas, priorizando clareza, organização e boas práticas. Trabalho com componentes reutilizáveis, padrões de UI consistentes e fluxos front-end eficientes. Colaboração via Git e GitHub faz parte da minha rotina. 
 
 Amo aprender coisas novas, compartilhar conhecimento e resolver problemas complexos com código limpo e escalável. 🚀
 
