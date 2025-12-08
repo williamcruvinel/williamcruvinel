@@ -14,11 +14,6 @@ Amo aprender coisas novas, compartilhar conhecimento e resolver problemas comple
 
 ---
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=williamcruvinel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=williamcruvinel&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 💼 Tecnologias e Ferramentas:
 
 #### 🧩 Front-end
